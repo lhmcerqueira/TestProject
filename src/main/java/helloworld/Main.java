@@ -9,6 +9,6 @@ public class Main {
         System.out.println("Please enter your name:/n");
         name = sc.nextLine();
         System.out.println("Hello "+name+", it's working!");
-        System.out.println("Test commit");
+        System.out.println("this is the feature branch");
     }
 }
